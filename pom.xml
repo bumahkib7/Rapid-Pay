@@ -93,7 +93,7 @@
         <dependency>
             <groupId>com.stripe</groupId>
             <artifactId>stripe-java</artifactId>
-            <version>22.5.0</version>
+            <version>22.31.0</version>
         </dependency>
         <dependency>
             <groupId>io.quarkus</groupId>
